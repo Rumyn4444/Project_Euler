@@ -1,0 +1,1 @@
+Information about the project can be found here:  https://projecteuler.net/
